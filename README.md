@@ -1,0 +1,2 @@
+# Smysl
+Django_Test
